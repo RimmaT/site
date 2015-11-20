@@ -1,0 +1,162 @@
+body
+{
+		margin:70px 0 70px 0;
+		padding:0;
+		background:#ffffff;
+		font:10px Arial, Helvetica, sans-serif;
+}
+.trans{
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+.trans:hover {
+  -webkit-transform: rotate(-10deg);
+     -moz-transform: rotate(-10deg);
+       -o-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+
+#main
+{  	 	margin:auto;
+		width:1000px;
+		height:10000px;
+		background:##E0FFFF;
+}
+#banner
+{
+       
+		width:1000px;
+		height:200px;
+		background:url(image/ввв.gif) ;
+}
+#menu
+{
+        
+    width:1000px;
+	height:50px;
+    background:url(image/menu.gif)
+}
+
+#pole
+{       
+      
+        width:1000px;
+		height:1000px;
+		background:#D5EFFC;
+        
+}
+p
+{
+		
+		font:14px Arial, Courier;
+		color:#091E96;
+}
+#time_date
+{       
+        float:left;
+        margin:40px 0 0 40px;
+        width:200px;
+	    height:300px;
+		
+}
+#menu#glavnai
+{
+float:left;
+width:200px;
+height:40px;
+margin:5px 0 5px 40px;
+background:url(image/главная.gif)
+}
+#menu#glavnai:hover
+{
+float:left;
+width:200px;
+height:40px;
+margin:5px 0 5px 40px;
+background:url(image/главная2.gif)
+}
+#menu#glavnai2
+{
+float:left;
+width:200px;
+height:40px;
+margin:5px 0 5px 40px;
+background:url(image/главная2.gif)
+}
+#menu#register
+{
+float:left;
+width:200px;
+height:40px;
+margin:0px 0 0 240px;
+background:url(image/регистрация.gif)
+}
+#menu#register:hover
+{
+float:left;
+width:200px;
+height:40px;
+margin:0px 0 0 240px;
+background:url(image/регистрация2.gif)
+}
+#menu#register2
+{
+float:left;
+width:200px;
+height:40px;
+margin:0px 0 0 240px;
+background:url(image/регистрация2.gif)
+}
+#menu#search
+{
+float:left;
+width:200px;
+height:40px;
+margin:0px 0 0 240px;
+background:url(image/поиск.gif)
+}
+#menu#search:hover
+{
+float:left;
+width:200px;
+height:40px;
+margin:0px 0 0 240px;
+background:url(image/поиск2.gif)
+}
+#menu#search2
+{
+float:left;
+width:200px;
+height:40px;
+margin:0px 0 0 240px;
+background:url(image/поиск2.gif)
+}
+#menu#edicaution
+{
+float:left;
+width:200px;
+height:40px;
+margin:0px 0 0 240px;
+background:url(image/учеба.gif)
+}
+#menu#edicaution:hover
+{
+float:left;
+width:200px;
+height:40px;
+margin:0px 0 0 240px;
+background:url(image/учеба2.gif)
+}
+#menu#edicaution2
+{
+float:left;
+width:200px;
+height:40px;
+margin:0px 0 0 240px;
+background:url(image/учеба2.gif)
+}
+
